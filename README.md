@@ -1,5 +1,4 @@
 # DiscordRAT-0.1
-a simple discord rat written in python,
 
 <img width="493" height="491" alt="Image" src="https://github.com/user-attachments/assets/4838a1f0-3d8d-478b-b4f9-499edd124913" />
 <img width="554" height="437" alt="image" src="https://github.com/user-attachments/assets/ed5f56a2-2cf1-4e72-b6a5-5c4bdd5af7cb" />
