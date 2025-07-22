@@ -7,6 +7,7 @@
 <img width="690" height="418" alt="image" src="https://github.com/user-attachments/assets/1022837a-9a4c-4be3-a0aa-a89db335af5c" />
 <img width="437" height="819" alt="image" src="https://github.com/user-attachments/assets/2e702684-5189-4c90-912c-19fa9a1f2be6" />
 <img width="554" height="485" alt="image" src="https://github.com/user-attachments/assets/e16af3ef-89c1-4cda-8df0-6a5905ed4f30" />
+
 execute the malware as a .py file (for the current version)
 
 
