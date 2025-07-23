@@ -2,7 +2,7 @@ from customtkinter import *
 from PIL import Image
 import os
 from tkinter import messagebox 
-#alot of errors when using pyinstaller #for the dumbass who used the token, get off my D kid, yk i disabled it like in a day.
+#alot of errors when using pyinstaller #thanks for the dumbass who told me about the token by spamming using it, thats a nice idea ill add that to my next discord message spammer 0.4!
 code=r"""
 import discord
 from discord.ext import commands
