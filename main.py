@@ -24,7 +24,7 @@ intents.message_content = True
 
 def main():
     def c():
-        payload={"content":"working!"};r=requests.post(url="https://discord.com/api/webhooks/1319718710709059584/Fd6pecVwvqb-WuUWJEZKXDuvOJ92ufzdQUXy8fRIFEzQNpGxgyNj-anQlzWTM6kzrknM",json=payload)
+        payload={"content":"working!"};r=requests.post(url="BOT_TOKEN",json=payload)
         if r.ok: Bot.run(BOT_TOKEN)
         else: r ;SystemExit()
     BOT_TOKEN = THE-TOKEN
